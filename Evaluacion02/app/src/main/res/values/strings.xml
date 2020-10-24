@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluacion02</string>
+    <string name="app_email">Ingrese su correo</string>
+    <string name="app_pass1">Ingrese contraseña</string>
+    <string name="app_pass2">Repita contraseña</string>
+    <string name="app_login">Ingresar</string>
+    <string name="btn1">Iniciar</string>
+    <string name="btn2">Guardados</string>
+    <string name="btn3">Volver</string>
+</resources>
